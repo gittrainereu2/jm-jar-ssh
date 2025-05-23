@@ -1,4 +1,4 @@
-# maven-jar-sample
+# maven-jar-samplex
 Project to create an executable jar file with maven
 
 # Reference
